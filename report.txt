@@ -5,3 +5,8 @@ I'll report about my learning here!
 until today I've seen a course about git.
 first 7 part of HTML Tutorial in www.w3schools.com
 and also I've made the new branch learning-html and passed first 3 sessions of maktabkhooneh.org htmle course.
+
+***
+
+session 4 & 5 & first part of 6 of the maktabkhooneh html course passed.
+also I read html headings, paragraph, styles, formating, quotations & comment sections of html tutorial in W3schools.
