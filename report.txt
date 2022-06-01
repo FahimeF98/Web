@@ -15,3 +15,8 @@ also I read html headings, paragraph, styles, formating, quotations & comment se
 
 session 7 & 8 & 9 of maktabkhooneh html course passed.
 the end point of maktabkhoone html course. :)
+
+***
+
+7 sessions of maktabkhoone CSS3 course passed.
+HTML comments & colors & css & links & images & favicon & tables of W3schools tutorial passed.
