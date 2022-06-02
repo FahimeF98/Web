@@ -20,3 +20,9 @@ the end point of maktabkhoone html course. :)
 
 7 sessions of maktabkhoone CSS3 course passed.
 HTML comments & colors & css & links & images & favicon & tables of W3schools tutorial passed.
+
+***
+
+8 sessions of maktabkhoone CSS3 course passed & HTML&CSS course of maktabkhooneh finished.
+HTML lists & block&inline & classes & id & iframes & javascript & file paths & head & layout & responsive & computercode & semantics & style guide & entities & symbols & emojis & charset & url encode & vs. XHTML of W3schools passed.
+also i installed wine to use adobe xd for the new course.
