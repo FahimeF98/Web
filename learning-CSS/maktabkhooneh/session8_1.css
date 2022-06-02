@@ -38,7 +38,7 @@ body{
     text-align: center;
     margin: 1px 0px;
     line-height: 50px;
-    display: inline-block;
+    display: inline-block; /* to make horizontal navigation menu  */
 }
 .two li a{
     /* display: block; */
