@@ -1,0 +1,19 @@
+.gallery{
+    width: 250px;
+    height: auto;
+    float: left;
+    border: 1px solid red;
+    margin: 45px;
+}
+.gallery a img{
+    width: 100%;
+    height: auto;
+}
+.desc{
+    padding: 50px;
+    text-align: left;
+}
+.gallery:hover{
+    border: 1px solid purple;
+    opacity: 0.8;
+}
